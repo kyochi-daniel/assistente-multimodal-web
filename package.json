@@ -1,0 +1,15 @@
+{
+  "name": "assistente-multimodal-web",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "description": "Assistente acadêmico multimodal no navegador com texto, imagem, áudio e tradução.",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
